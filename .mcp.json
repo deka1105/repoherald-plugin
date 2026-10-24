@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "repoherald": {
+      "type": "http",
+      "url": "https://repoherald.com/api/mcp"
+    }
+  }
+}

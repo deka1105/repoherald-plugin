@@ -1,0 +1,12 @@
+{
+  "name": "repoherald",
+  "description": "The repoherald plugin",
+  "owner": { "name": "deka1105" },
+  "plugins": [
+    {
+      "name": "repoherald",
+      "source": "./",
+      "description": "Search and browse repoherald's curated GitHub catalogue without leaving your session."
+    }
+  ]
+}

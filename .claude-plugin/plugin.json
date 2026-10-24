@@ -1,0 +1,22 @@
+{
+  "name": "repoherald",
+  "displayName": "repoherald",
+  "version": "0.1.0",
+  "description": "Search and browse repoherald, a human-curated catalogue of GitHub repositories categorised by use case and sector.",
+  "author": {
+    "name": "deka1105"
+  },
+  "homepage": "https://repoherald.com",
+  "repository": "https://github.com/deka1105/repoherald-plugin",
+  "keywords": [
+    "github",
+    "repositories",
+    "discovery",
+    "search"
+  ],
+  "license": "MIT",
+  "icon": "./.claude-plugin/icon.png",
+  "documentationUrl": "https://github.com/deka1105/repoherald-plugin#readme",
+  "privacyPolicyUrl": "https://repoherald.com/privacy",
+  "termsOfServiceUrl": "https://repoherald.com/terms"
+}
