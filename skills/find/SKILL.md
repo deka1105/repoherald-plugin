@@ -6,7 +6,8 @@ description: Find GitHub repositories through repoherald's curated catalogue —
 # Finding repositories on repoherald
 
 repoherald is a catalogue of GitHub repositories that people have posted and
-tagged by use case and sector. It is small — hundreds of entries, not millions —
+tagged by use case and sector. It is small — small enough that a broad query can
+return the entire catalogue, and many reasonable searches return nothing —
 and that is the point: every listing is there because someone put it there.
 
 That shapes when it is worth calling. It answers *"what do people actually
